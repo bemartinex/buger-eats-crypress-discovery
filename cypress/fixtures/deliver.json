@@ -1,0 +1,59 @@
+{
+    
+    "signup": {
+        "name": "Breno Martinez",
+        "cpf": "34366658925",
+        "email": "brehmartinez@gmail.com",
+        "whatsapp":"11991578536",
+        "address": {
+            "postalcode": "03818130",
+            "street": "Rua Cícero Dantas",
+            "number": "321",
+            "details": "Ap 258",
+            "district": "Parque Císper",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method":"Moto",
+        "cnh": "/images/cnh-digital.jpg"
+                },
+
+
+
+    "cpf_inv":  {
+        "name": "Breno Martinez",
+        "cpf": "343666589AA",
+        "email": "brehmartinez@gmail.com",
+        "whatsapp":"11991578536",
+        "address":  {
+            "postalcode": "03818130",
+            "street": "Rua Cícero Dantas",
+            "number": "321",
+            "details": "Ap 258",
+            "district": "Parque Císper",
+            "city_state": "São Paulo/SP"
+                    },
+        "delivery_method":"Moto",
+        "cnh": "/images/cnh-digital.jpg"
+
+                },
+
+     "email_inv": {
+        "name": "Breno Martinez",
+        "cpf": "34360822871",
+        "email": "brehmartinez.com",
+        "whatsapp":"11991578536",
+        "address": {
+            "postalcode": "03818130",
+            "street": "Rua Cícero Dantas",
+            "number": "321",
+            "details": "Ap 258",
+            "district": "Parque Císper",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method":"Moto",
+        "cnh": "/images/cnh-digital.jpg"
+                }
+
+                
+
+}
